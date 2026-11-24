@@ -1,0 +1,19 @@
+# Compiled executables and object files
+*.exe
+*.o
+*.obj
+*.dll
+*.lib
+*.a
+
+# Debug/build outputs
+*.pdb
+*.ilk
+*.log
+compile-log.txt
+
+# Editor / OS files
+.vscode/
+.vs/
+.DS_Store
+Thumbs.db
